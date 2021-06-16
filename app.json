@@ -1,0 +1,12 @@
+{
+  "name": "cars-mobile",
+  "displayName": "cars-mobile",
+  "expo": {
+    "name": "cars-mobile",
+    "slug": "cars-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
